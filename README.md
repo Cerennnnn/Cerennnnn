@@ -1,6 +1,7 @@
 # Hi, I’m Ceren. :wave:
 ![](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47hn3t4ztcajsrsqcvxrnw5bjbatppvgcxt61r6mmj&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-- 👀 I’m interested in iOS development!
+
+<p style-"color: green; background-color:black">
 - 🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
 - 📫 How to reach me: https://www.linkedin.com/in/ceren-güneş-4bb990211/
 
