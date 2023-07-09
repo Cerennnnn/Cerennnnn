@@ -1,4 +1,4 @@
-# :wave: Hi, I’m Ceren
+# Hi, :wave: I’m Ceren
 - 👀 I’m interested in iOS development!
 - 🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
 - 📫 How to reach me: https://www.linkedin.com/in/ceren-güneş-4bb990211/
