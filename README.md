@@ -3,6 +3,11 @@
 
 <p style="color:red; background-color:white"> I graduated from Baskent University with a bachelor's degree of Computer Engineering. My goal and dream is to be a successful iOS Developer. I am currently training for this. However I continue practice and improve myself until I reach my goal. 💪 </p>
 
+<p align="center">
+  <a>
+    <img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=cerennnnn&theme=tokyonight&hide_border=true"/>
+  </a>
+
 - 🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
 - 📫 How to reach me: https://www.linkedin.com/in/ceren-güneş-4bb990211/
 
