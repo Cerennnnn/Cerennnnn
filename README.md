@@ -21,7 +21,7 @@
 
 
 
-
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
  <br />🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
  <br />📫 How to reach me: https://www.linkedin.com/in/ceren-güneş-4bb990211/
 
