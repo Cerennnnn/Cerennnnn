@@ -21,8 +21,7 @@
 
 
 <br /> <br /><br /><br /><br /><br /><br /><br /><br /><br />
- <br />🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
- <br />📫 How to reach me: https://www.linkedin.com/in/ceren-güneş-4bb990211/
+<br />🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
 
 <!---
 cerennnnn/cerennnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
