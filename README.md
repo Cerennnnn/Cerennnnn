@@ -6,9 +6,18 @@
 <p align="center">
   <a>
     <img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=cerennnnn&theme=tokyonight&hide_border=true"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerennnnn&layout=donut&theme=tokyonight"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerennnnn&layout=donut&theme=tokyonight"/>
+ </a>
+  <a>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=cerennnnn&theme=tokyonight"/>
   </a>
+</p>
 
 - 🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
 - 📫 How to reach me: https://www.linkedin.com/in/ceren-güneş-4bb990211/
