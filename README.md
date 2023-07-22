@@ -1,5 +1,5 @@
 # Hi, I’m Ceren. :wave:
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXozeWdxd3N6YjkxdHllc2E3cmhhNWsyZG5wMXE5eHJvcGVmZjlyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
+![](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.mp4)
 
 <p style="color:red; background-color:white"> I graduated from Baskent University with a bachelor's degree of Computer Engineering. My goal and dream is to be a successful iOS Developer. I am currently training for this. However I continue practice and improve myself until I reach my goal. 💪 </p>
 
