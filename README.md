@@ -1,6 +1,6 @@
 # Hi, I’m Ceren. :wave:
 
-![](https://giphy.com/gifs/look-interesting-juSCTzqDAV1Xq)
+![](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 <p style="color:red; background-color:white"> I graduated from Baskent University with a bachelor's degree of Computer Engineering. My goal and dream is to be a successful iOS Developer. I am currently training for this. However I continue practice and improve myself until I reach my goal. 💪 </p>
 
