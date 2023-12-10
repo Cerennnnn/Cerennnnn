@@ -1,4 +1,4 @@
-# Hi, I’m Ceren. 🙋🏻‍♀️:
+# Hi, I’m Ceren. 🙋🏻‍♀️
 
 <p align="center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
