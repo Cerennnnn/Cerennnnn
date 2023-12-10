@@ -8,17 +8,17 @@
 
 <p align="center">
   <a>
-    <img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=cerennnnn&theme=tokyonight&hide_border=true"/>
+    <img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=cerennnnn&theme=dark&hide_border=true"/>
   </a>
 </p>
 
 
 <p align="center">
   <a>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerennnnn&layout=donut&theme=tokyonight"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerennnnn&layout=donut&theme=dark"/>
  </a>
   <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cerennnnn&theme=tokyonight"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cerennnnn&theme=dark"/>
   </a>
 </p>
 
