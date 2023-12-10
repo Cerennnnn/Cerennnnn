@@ -1,6 +1,8 @@
 # Hi, I’m Ceren. :wave:
 
-![](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
+</p>
 
 <p style="color:red; background-color:white"> I graduated from Baskent University with a bachelor's degree of Computer Engineering. My goal and dream is to be a successful iOS Developer. I am currently training for this. However I continue practice and improve myself until I reach my goal. 💪 </p>
 
@@ -21,7 +23,7 @@
 </p>
 
 
-<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /> <br /><br /><br /><br /><br />
 <br />🌱 I’m currently learning UIKit and SwiftUI 👩🏻‍💻
 
 <!---
